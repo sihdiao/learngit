@@ -1,3 +1,4 @@
 zhuzhenyuan
- this is your first git exercise
-so come on , try more exercise 
+ this is your first git exercise..
+so come on , try more exercise
+change 
