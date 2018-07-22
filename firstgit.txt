@@ -2,6 +2,5 @@ zhuzhenyuan
  this is your first git exercise
 so come on , try more exercise
 change
-Creating a new branch is quick And simple.
-
+Creating a new branch is quick and simple.
 
